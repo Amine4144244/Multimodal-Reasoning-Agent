@@ -1,0 +1,50 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_drivers/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+*.env
+
+# Python build and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucid
+.pytest_cache/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Frontend build outputs
+dist/
+build/
+.next/
+out/
+.svelte-kit/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
